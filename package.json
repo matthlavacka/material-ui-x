@@ -1,5 +1,6 @@
 {
   "version": "0.1.63",
+  "name": "data-grid",
   "private": true,
   "scripts": {
     "start": "yarn docs:dev",
